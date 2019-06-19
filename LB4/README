@@ -1,0 +1,5 @@
+Operation of a temperature and humidity meter,
+the display of said variables will be both in a
+serial port console (PuTTY or Hyperterminal) and
+in a visual way through a servomotor.
+The serial communication will be to a configuration of 19200 8N1
